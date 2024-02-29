@@ -119,3 +119,4 @@ tensorboard --logdir output/[exp_name]/log/tb
 to serve TensorBoard on your localhost.
 The loss curves, synthesized Mel-Spectrograms, and audios are shown.
 
+I am fucking bunbun
